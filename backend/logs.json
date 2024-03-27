@@ -1,0 +1,236 @@
+{"timestamp":"2024-03-27T09:09:02.021Z","message":"Skipping data element with invalid value: act_24_supplied"}
+{"timestamp":"2024-03-27T09:09:02.032Z","message":"Skipping data element with invalid value: paracetamol_500_supplied"}
+{"timestamp":"2024-03-27T09:09:02.037Z","message":"Skipping data element with invalid value: bandages_supplied"}
+{"timestamp":"2024-03-27T09:09:02.039Z","message":"Skipping data element with invalid value: povi_supplied"}
+{"timestamp":"2024-03-27T09:09:02.056Z","message":"Skipping data element with invalid value: strap_supplied"}
+{"timestamp":"2024-03-27T09:09:02.067Z","message":"Skipping data element with invalid value: gloves_supplied"}
+{"timestamp":"2024-03-27T09:09:02.082Z","message":"Skipping data element with invalid value: others_supplied"}
+{"timestamp":"2024-03-27T09:09:02.071Z","message":"Skipping data element with invalid value: envelopes_supplied"}
+{"timestamp":"2024-03-27T09:09:02.086Z","message":"Skipping data element with invalid value: calc_rs_act_24"}
+{"timestamp":"2024-03-27T09:09:02.103Z","message":"Skipping data element with invalid value: calc_rs_paracetamol_500"}
+{"timestamp":"2024-03-27T09:09:02.134Z","message":"Skipping data element with invalid value: calc_rs_bandages"}
+{"timestamp":"2024-03-27T09:09:02.147Z","message":"Skipping data element with invalid value: calc_rs_povi"}
+{"timestamp":"2024-03-27T09:09:02.169Z","message":"Skipping data element with invalid value: calc_rs_strap"}
+{"timestamp":"2024-03-27T09:09:02.183Z","message":"Skipping data element with invalid value: calc_rs_gloves"}
+{"timestamp":"2024-03-27T09:09:02.249Z","message":"Skipping data element with invalid value: calc_rs_envelopes"}
+{"timestamp":"2024-03-27T09:09:02.375Z","message":"Skipping data element with invalid value: calc_rs_others"}
+{"timestamp":"2024-03-27T09:09:02.386Z","message":"Skipping data element with invalid value: calc_soh_rdts"}
+{"timestamp":"2024-03-27T09:09:02.394Z","message":"Skipping data element with invalid value: calc_soh_act_6"}
+{"timestamp":"2024-03-27T09:09:02.401Z","message":"Skipping data element with invalid value: calc_soh_act_12"}
+{"timestamp":"2024-03-27T09:09:02.444Z","message":"Skipping data element with invalid value: calc_soh_act_18"}
+{"timestamp":"2024-03-27T09:09:02.445Z","message":"Skipping data element with invalid value: calc_soh_act_24"}
+{"timestamp":"2024-03-27T09:09:02.446Z","message":"Skipping data element with invalid value: calc_soh_dt_250"}
+{"timestamp":"2024-03-27T09:09:02.448Z","message":"Skipping data element with invalid value: calc_soh_ors_zinc"}
+{"timestamp":"2024-03-27T09:09:02.450Z","message":"Skipping data element with invalid value: calc_soh_ors_sachets"}
+{"timestamp":"2024-03-27T09:09:02.454Z","message":"Skipping data element with invalid value: calc_soh_zinc_sulphate"}
+{"timestamp":"2024-03-27T09:09:02.468Z","message":"Skipping data element with invalid value: calc_soh_albendazole"}
+{"timestamp":"2024-03-27T09:09:02.484Z","message":"Skipping data element with invalid value: calc_soh_tetra_eye"}
+{"timestamp":"2024-03-27T09:09:02.486Z","message":"Skipping data element with invalid value: calc_soh_paracetamol_120"}
+{"timestamp":"2024-03-27T09:09:02.499Z","message":"Skipping data element with invalid value: calc_soh_mebendazole"}
+{"timestamp":"2024-03-27T09:09:02.501Z","message":"Skipping data element with invalid value: calc_soh_coc"}
+{"timestamp":"2024-03-27T09:09:02.503Z","message":"Skipping data element with invalid value: calc_soh_prog"}
+{"timestamp":"2024-03-27T09:09:02.505Z","message":"Skipping data element with invalid value: calc_soh_depo_im"}
+{"timestamp":"2024-03-27T09:09:02.509Z","message":"Skipping data element with invalid value: calc_soh_depo_sc"}
+{"timestamp":"2024-03-27T09:09:02.521Z","message":"Skipping data element with invalid value: calc_soh_paracetamol_500"}
+{"timestamp":"2024-03-27T09:09:02.517Z","message":"Skipping data element with invalid value: calc_soh_preg_strip"}
+{"timestamp":"2024-03-27T09:09:02.520Z","message":"Skipping data element with invalid value: calc_soh_gluc_strips"}
+{"timestamp":"2024-03-27T09:09:02.518Z","message":"Skipping data element with invalid value: calc_soh_chlorine"}
+{"timestamp":"2024-03-27T09:09:02.522Z","message":"Skipping data element with invalid value: calc_soh_bandages"}
+{"timestamp":"2024-03-27T09:09:02.530Z","message":"Skipping data element with invalid value: calc_soh_strap"}
+{"timestamp":"2024-03-27T09:09:02.525Z","message":"Skipping data element with invalid value: calc_soh_povi"}
+{"timestamp":"2024-03-27T09:09:02.534Z","message":"Skipping data element with invalid value: calc_soh_gloves"}
+{"timestamp":"2024-03-27T09:09:02.535Z","message":"Skipping data element with invalid value: calc_soh_envelopes"}
+{"timestamp":"2024-03-27T09:09:02.536Z","message":"Skipping data element with invalid value: calc_soh_glucometer"}
+{"timestamp":"2024-03-27T09:09:02.537Z","message":"Skipping data element with invalid value: calc_soh_backpack"}
+{"timestamp":"2024-03-27T09:09:02.538Z","message":"Skipping data element with invalid value: calc_soh_badge"}
+{"timestamp":"2024-03-27T09:09:02.539Z","message":"Skipping data element with invalid value: calc_soh_flashlight"}
+{"timestamp":"2024-03-27T09:09:02.541Z","message":"Skipping data element with invalid value: calc_soh_salter"}
+{"timestamp":"2024-03-27T09:09:02.543Z","message":"Skipping data element with invalid value: calc_soh_color_salter"}
+{"timestamp":"2024-03-27T09:09:02.547Z","message":"Skipping data element with invalid value: calc_soh_weighing_scale"}
+{"timestamp":"2024-03-27T09:09:02.547Z","message":"Skipping data element with invalid value: calc_soh_first_aid"}
+{"timestamp":"2024-03-27T09:09:02.548Z","message":"Skipping data element with invalid value: calc_soh_bp"}
+{"timestamp":"2024-03-27T09:09:02.549Z","message":"Skipping data element with invalid value: calc_soh_thermometer"}
+{"timestamp":"2024-03-27T09:09:02.550Z","message":"Skipping data element with invalid value: calc_soh_resp_timer"}
+{"timestamp":"2024-03-27T09:09:02.551Z","message":"Skipping data element with invalid value: calc_soh_muac_tape_adults"}
+{"timestamp":"2024-03-27T09:09:02.552Z","message":"Skipping data element with invalid value: calc_soh_muac_tape_children"}
+{"timestamp":"2024-03-27T09:09:02.553Z","message":"Skipping data element with invalid value: calc_soh_family_muac_tape"}
+{"timestamp":"2024-03-27T09:09:02.554Z","message":"Skipping data element with invalid value: calc_soh_moh_514"}
+{"timestamp":"2024-03-27T09:09:02.555Z","message":"Skipping data element with invalid value: calc_soh_moh_521"}
+{"timestamp":"2024-03-27T09:09:02.556Z","message":"Skipping data element with invalid value: calc_soh_moh_100"}
+{"timestamp":"2024-03-27T09:09:02.558Z","message":"Skipping data element with invalid value: calc_soh_comm_daily_register"}
+{"timestamp":"2024-03-27T09:09:02.561Z","message":"Skipping data element with invalid value: calc_soh_phone"}
+{"timestamp":"2024-03-27T09:09:02.563Z","message":"Skipping data element with invalid value: calc_soh_safety_box"}
+{"timestamp":"2024-03-27T09:09:02.565Z","message":"Skipping data element with invalid value: calc_soh_others"}
+{"timestamp":"2024-03-27T09:09:02.566Z","message":"Skipping data element with invalid value: calc_new_soh_act_24"}
+{"timestamp":"2024-03-27T09:09:02.568Z","message":"Skipping data element with invalid value: calc_new_soh_paracetamol_500"}
+{"timestamp":"2024-03-27T09:09:02.569Z","message":"Skipping data element with invalid value: calc_new_soh_bandages"}
+{"timestamp":"2024-03-27T09:09:02.570Z","message":"Skipping data element with invalid value: calc_new_soh_povi"}
+{"timestamp":"2024-03-27T09:09:02.571Z","message":"Skipping data element with invalid value: calc_new_soh_strap"}
+{"timestamp":"2024-03-27T09:09:02.572Z","message":"Skipping data element with invalid value: calc_new_soh_gloves"}
+{"timestamp":"2024-03-27T09:09:02.574Z","message":"Skipping data element with invalid value: calc_new_soh_envelopes"}
+{"timestamp":"2024-03-27T09:09:02.580Z","message":"Skipping data element with invalid value: calc_new_soh_others"}
+{"timestamp":"2024-03-27T09:09:02.581Z","message":"Error parsing JSON data: Cannot convert undefined or null to object"}
+{"timestamp":"2024-03-27T09:09:02.638Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":1,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.642Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":2,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.647Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":3,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.652Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":4,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.657Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":5,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.661Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":6,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.666Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":7,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.670Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":8,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.676Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":9,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.680Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":10,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.685Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":11,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.689Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":12,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.694Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":13,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.697Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":14,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.701Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":15,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.704Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":16,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.708Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":17,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.712Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":18,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.719Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":19,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.726Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":20,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.731Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":21,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.734Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":22,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.738Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":23,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.747Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":24,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.752Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":25,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.763Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":26,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.767Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":27,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.772Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":28,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.778Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":29,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.782Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":30,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.796Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":31,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.801Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":32,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.805Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":33,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.810Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":34,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.813Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":35,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.816Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":36,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.820Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":37,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.824Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":38,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.829Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":39,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.833Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":40,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.837Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":41,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.841Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":42,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.845Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":43,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.849Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":44,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.852Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":45,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.868Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":46,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.886Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":47,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.903Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":48,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.912Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":49,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.916Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":50,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.920Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":51,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.935Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":53,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.924Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":52,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.945Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":54,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.950Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":55,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.953Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":56,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.958Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":57,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.962Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":58,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.966Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":59,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.970Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":60,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.974Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":61,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.978Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":62,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.982Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":63,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.985Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":64,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.989Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":65,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.994Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":66,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:02.997Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":67,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.001Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":68,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.005Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":69,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.017Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":71,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.010Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":70,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.020Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":72,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.025Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":73,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.029Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":74,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.033Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":75,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.036Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":76,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.040Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":77,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.046Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":78,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.049Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":79,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.052Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":80,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.056Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":81,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.061Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":82,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.065Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":83,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.068Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":84,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.072Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":85,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.077Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":86,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.081Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":87,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.084Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":88,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.087Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":89,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.091Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":90,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.096Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":91,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.099Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":92,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.102Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":93,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.105Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":94,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.110Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":95,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.113Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":96,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.116Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":97,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.128Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":98,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.136Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":99,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.165Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":100,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.195Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":101,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.213Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":102,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.247Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":103,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.251Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":104,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.254Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":105,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.261Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":106,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.265Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":107,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.269Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":108,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.287Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":109,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.360Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":110,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.363Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":111,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.366Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":112,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.369Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":113,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.373Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":114,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.376Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":115,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.381Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":116,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.387Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":117,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.391Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":118,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.397Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":119,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.400Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":120,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.404Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":121,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.407Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":122,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.412Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":123,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.416Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":124,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.419Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":125,\"serverStatus\":2,\"warningCount\":1,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.422Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":126,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.427Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":127,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.433Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":128,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.436Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":129,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.439Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":130,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.447Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":131,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.450Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":132,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.454Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":133,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.464Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":134,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.467Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":135,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.471Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":136,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.475Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":137,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.481Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":138,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.484Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":139,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.489Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":140,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.494Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":141,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.498Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":142,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.502Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":143,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.509Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":144,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.516Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":145,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.519Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":146,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.523Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":147,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.529Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":148,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.533Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":149,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.537Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":150,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.540Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":151,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.545Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":152,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.552Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":153,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.555Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":154,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.559Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":155,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.563Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":156,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.568Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":157,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.571Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":158,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.576Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":159,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.581Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":160,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.584Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":161,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.588Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":162,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.594Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":163,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
+{"timestamp":"2024-03-27T09:09:03.599Z","message":"Data inserted successfully: {\"fieldCount\":0,\"affectedRows\":1,\"insertId\":164,\"serverStatus\":2,\"warningCount\":0,\"message\":\"\",\"protocol41\":true,\"changedRows\":0}"}
