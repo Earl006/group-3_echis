@@ -1,7 +1,7 @@
 const https = require('https');
 
 // URL to be invoked every 30 seconds
-const urlToInvoke = 'https://84dd-102-213-241-162.ngrok-free.app/';
+const urlToInvoke = '/';
 
 // Function to invoke the URL
 function invokeURL() {
